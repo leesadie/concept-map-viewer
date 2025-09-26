@@ -9,7 +9,7 @@ Visualize a concept map from a `.json` file. Displays concepts as nodes, relatio
 Clone and run `index.html`
 
 ### View on web
-Live demo: 
+Live demo: https://leesadie.github.io/concept-map-viewer/
 
 Use the **Load Concept Map** button to upload a `.json` file.
 
